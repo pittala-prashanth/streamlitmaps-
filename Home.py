@@ -17,9 +17,11 @@ st.sidebar.image(logo)
 st.title("GIS Map")
 
 st.markdown(
-  #  """
- # (https://streamlit.io) and(https://leafmap.org).
-   # """
+  """
+  (https://streamlit.io) 
+ .
+  
+   """
 )
 
 
