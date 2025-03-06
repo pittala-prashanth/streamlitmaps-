@@ -5,6 +5,7 @@ st.set_page_config(layout="wide")
 
 # Customize the sidebar
 markdown = """
+A Streamlit map template
 <https://github.com/pittala-prashanth/streamlitmaps>
 """
 
