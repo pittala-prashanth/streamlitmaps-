@@ -18,7 +18,7 @@ st.title("GIS Map")
 
 st.markdown(
   """
-  (https://streamlit.io) 
+ (https://leafmap.org)
  .
   
    """
