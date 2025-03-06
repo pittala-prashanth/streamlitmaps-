@@ -6,7 +6,7 @@ st.set_page_config(layout="wide")
 
 markdown = """
 A Streamlit map template
-<https://github.com/pittala-prashanth/streamlitmaps>
+<https://github.com/opengeos/streamlit-map-template>
 """
 
 st.sidebar.title("About")
