@@ -31,7 +31,7 @@ st.header("Instructions")
 #3. Find your favorite emoji from https://emojipedia.org.
 #4. Add a new app to the `pages/` directory with an emoji in the file name, e.g., `1_🚀_Chart.py`.
 
-"""
+# """
 
 st.markdown(markdown)
 
