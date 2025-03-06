@@ -8,7 +8,11 @@ markdown = """
 
 
 """
-
+st.markdown(
+    """
+    This multipage app template demonstrates various interactive web apps created using [streamlit](https://streamlit.io) and [leafmap](https://leafmap.org). It is an open-source project and you are very welcome to contribute to the [GitHub repository](https://github.com/opengeos/streamlit-map-template).
+    """
+)
 st.sidebar.title("About")
 st.sidebar.info(markdown)
 logo = "https://i.imgur.com/UbOXYAU.png"
