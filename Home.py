@@ -18,8 +18,7 @@ st.title("GIS Map")
 
 st.markdown(
   """
- (https://leafmap.org)
- .
+This multipage app template demonstrates various interactive web apps created using [streamlit](https://streamlit.io) and [leafmap](https://leafmap.org).
   
    """
 )
