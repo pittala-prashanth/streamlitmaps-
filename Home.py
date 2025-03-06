@@ -17,9 +17,9 @@ st.sidebar.image(logo)
 st.title("GIS Map")
 
 st.markdown(
-    """
-    [streamlit](https://streamlit.io) and [leafmap](https://leafmap.org). [GitHub repository](https://github.com/opengeos/streamlit-map-template).
-    """
+  #  """
+ # (https://streamlit.io) and(https://leafmap.org).
+   # """
 )
 
 
