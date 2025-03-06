@@ -5,7 +5,7 @@ st.set_page_config(layout="wide")
 
 # Customize the sidebar
 markdown = """
-GIS Maps
+
 
 """
 
@@ -18,9 +18,7 @@ st.sidebar.image(logo)
 st.title("GIS Maps")
 
 st.markdown(
-   """
-    This multipage app template demonstrates various interactive web apps created using [streamlit](https://streamlit.io) and [leafmap](https://leafmap.org). It is an open-source project and you are very welcome to contribute to the [GitHub repository](https://github.com/opengeos/streamlit-map-template).
-    """
+   
 )
 
 
